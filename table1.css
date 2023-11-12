@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.table1{
+    margin: 60px 0;
+}
+
+table{
+    border-bottom: 1px soli blue;
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+}
+
+td{
+border-bottom: 3px solid blue;
+font-size: 20px;
+padding: 10px;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+th{
+    font-size: 25px;
+    padding: 15px;
+}
+
+caption{
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.pass{
+    padding-left: 5px;
+    color: green;
+}
+
+.emma{
+    color: red;
+    padding-left: 5px;
+}
